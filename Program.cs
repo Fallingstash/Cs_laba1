@@ -68,7 +68,6 @@ namespace ConsoleApp7
                 firstNumber /= 10;
             }
             result += erasedDigital;
-
             return result;
         }
         static int PowBySoldatov(int value, int quantity)
